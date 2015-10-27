@@ -1,0 +1,25 @@
+# binaries
+*.o
+*.out
+/server
+/client
+
+# logging & debug
+*.log
+*.debug
+
+# temporaries
+*.tmp
+*.swp
+*.swo
+*.swn
+*.swm
+*~
+\#*\#
+.\#*
+
+# exclusion "area"
+local
+
+# other
+/serv/.vimrc
